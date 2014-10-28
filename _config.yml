@@ -1,0 +1,10 @@
+# Site settings
+title: Dylan's Website 
+email: ddibona@albany.edu
+description: 10/28 Classwork
+url: dibonad.github.io
+github_username: DiBonaD
+
+# Build settings
+markdown: kramdown
+permalink: pretty
